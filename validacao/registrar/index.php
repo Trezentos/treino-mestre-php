@@ -1,4 +1,4 @@
-<form action="/treino/formulario/validacao/registrar-controller.php" method="post" class="p-4 space-y-4">
+<form action="/treino/validacao/registrar/registrar-controller.php" method="post" class="p-4 space-y-4">
 
         <div class="flex flex-col">
             <label for="" class="text-stone-500 mb-1">Nome</label>
