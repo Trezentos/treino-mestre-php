@@ -4,7 +4,7 @@
             <label for="" class="text-stone-500 mb-1">Nome</label>
             <input
                     type="text"
-                    name="nome"
+                    name="name"
                     class="border-stone-800 border-2 border rounded-md bg-stone-900 text-sm focus:outline-none px-2 py-1 "
                     placeholder="Nome"
             >
@@ -22,7 +22,7 @@
             <label for="" class="text-stone-500 mb-1">Confirmar Email</label>
             <input
                     type="email"
-                    name="email_confirmacao"
+                    name="email_confirmed"
                     class="border-stone-800 border-2 border rounded-md bg-stone-900 text-sm focus:outline-none px-2 py-1 "
                     placeholder="Confirme o seu e-mail"
             >
@@ -31,7 +31,7 @@
             <label for="" class="text-stone-500 mb-1">Senha</label>
             <input
                     type="password"
-                    name="senha"
+                    name="password"
                     class="border-stone-800 border-2 border rounded-md bg-stone-900 text-sm focus:outline-none px-2 py-1 "
                     placeholder="Password"
             >
